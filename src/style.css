@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.navbar{
+    background-image: linear-gradient(to right, #672280, #A626D3);
+    color: white;
+}
+
+.new-meme-btn{
+    background-image: linear-gradient(to right, #672280, #A626D3);
+    color: white;
+}
